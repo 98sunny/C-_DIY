@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week02Calculator", "Week02Calculator.csproj", "{DE08A1B6-C927-408B-B3A4-994842D0BCAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE08A1B6-C927-408B-B3A4-994842D0BCAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE08A1B6-C927-408B-B3A4-994842D0BCAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE08A1B6-C927-408B-B3A4-994842D0BCAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE08A1B6-C927-408B-B3A4-994842D0BCAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7817D1DF-CB65-44A2-8578-9F4B334E311F}
+	EndGlobalSection
+EndGlobal

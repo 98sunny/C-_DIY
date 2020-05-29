@@ -1,0 +1,10 @@
+C:\Users\Sunny Singh\Documents\GitHub\1.Windows App Dev using C#\Week02\Week02Calculator\Week02Calculator\obj\Debug\Week02Calculator.csprojAssemblyReference.cache
+C:\Users\Sunny Singh\Documents\GitHub\1.Windows App Dev using C#\Week02\Week02Calculator\Week02Calculator\obj\Debug\Week02Calculator.Form1.resources
+C:\Users\Sunny Singh\Documents\GitHub\1.Windows App Dev using C#\Week02\Week02Calculator\Week02Calculator\obj\Debug\Week02Calculator.Properties.Resources.resources
+C:\Users\Sunny Singh\Documents\GitHub\1.Windows App Dev using C#\Week02\Week02Calculator\Week02Calculator\obj\Debug\Week02Calculator.csproj.GenerateResource.cache
+C:\Users\Sunny Singh\Documents\GitHub\1.Windows App Dev using C#\Week02\Week02Calculator\Week02Calculator\obj\Debug\Week02Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Sunny Singh\Documents\GitHub\1.Windows App Dev using C#\Week02\Week02Calculator\Week02Calculator\bin\Debug\Week02Calculator.exe.config
+C:\Users\Sunny Singh\Documents\GitHub\1.Windows App Dev using C#\Week02\Week02Calculator\Week02Calculator\bin\Debug\Week02Calculator.exe
+C:\Users\Sunny Singh\Documents\GitHub\1.Windows App Dev using C#\Week02\Week02Calculator\Week02Calculator\bin\Debug\Week02Calculator.pdb
+C:\Users\Sunny Singh\Documents\GitHub\1.Windows App Dev using C#\Week02\Week02Calculator\Week02Calculator\obj\Debug\Week02Calculator.exe
+C:\Users\Sunny Singh\Documents\GitHub\1.Windows App Dev using C#\Week02\Week02Calculator\Week02Calculator\obj\Debug\Week02Calculator.pdb
